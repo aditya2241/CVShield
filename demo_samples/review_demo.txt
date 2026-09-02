@@ -1,0 +1,3 @@
+TrustGuard AI safe review sample.
+This text intentionally contains strings that a defensive scanner may flag for review: PowerShell -enc, Invoke-Expression, and WScript.Shell.
+These are plain text strings and are not executed.
